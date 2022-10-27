@@ -1,6 +1,6 @@
 # Hi everyone
 ## My name is Abby.💕
-Im a transgender girl who is studing informatic engineering.
+Im a transgender girl who love programming and everything related to software. I have studied (but not finished) informatic engineering.
 <br/>⭐My goal here is to finish with my sumiAI project. It is a private AI made with biological basis of the brain function.⭐
 <br/>
 ```diff
