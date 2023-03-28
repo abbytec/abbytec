@@ -13,6 +13,6 @@ Im a transgender girl who love programming and everything related to software. I
  <a href="https://discord.com/users/220683580467052544" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" style="max-width: 100%;"></a>
 
 <br/>
- Instagram: [Abbytec_hd](https://www.instagram.com/abbytec_hd/) <br/>
- WhatsApp: [+5493541209175](https://wa.me/+5493541209175) 
+ Instagram: <a href="https://www.instagram.com/abbytec_hd/">Abbytec_hd</a> <br/>
+ WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
 </p>
