@@ -9,6 +9,8 @@ Im a transgender girl who love programming and everything related to software. I
 @@ 🌸 I love food, watching anime and playing osu! (-Abbytec-)🌸 @@
 ```
 ## Social media
-<b> Instagram: Abbytec_hd <br/>
- WhatsApp: +5493541209175
+[![Discord Presence](https://lanyard.cnrad.dev/api/220683580467052544bg=:e4c5e4)](https://discord.com/users/220683580467052544)
+<b> 
+ Instagram: [Abbytec_hd](https://www.instagram.com/abbytec_hd/) <br/>
+ WhatsApp: [+5493541209175](https://wa.me/+5493541209175)
 <b/>
