@@ -19,3 +19,6 @@ Im a transgender girl who love programming and everything related to software. I
 		 WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
 	 </td>
 </table>
+## Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
