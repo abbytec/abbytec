@@ -9,10 +9,15 @@ Im a transgender girl who love programming and everything related to software. I
 @@ 🌸 I love food, watching anime and playing osu! (-Abbytec-)🌸 @@
 ```
 ## Social media
-<p align="center">
- <a href="https://discord.com/users/220683580467052544" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" style="max-width: 100%; float:'left';"></a>
-
-<br/>
- Instagram: <a href="https://www.instagram.com/abbytec_hd/">Abbytec_hd</a> <br/>
- WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
+<table>
+ <tr>
+    <td>
+		<p align="center">
+			<a href="https://discord.com/users/220683580467052544" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" style="max-width: 100%;"></a>
+	</td>
+	 <td>
+		 Instagram: <a href="https://www.instagram.com/abbytec_hd/">Abbytec_hd</a> <br/>
+		 WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
+	 </td>
+</table>
 </p>
