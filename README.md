@@ -12,7 +12,12 @@ Im a transgender girl who love programming and everything related to software. I
 @@ 🌸 I love food, watching anime and playing osu! (-Abbytec-)🌸 @@
 ```
 
-## Social media
+## Activity
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 <table align="center">
 	<tbody>
  		<tr>
