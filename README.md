@@ -21,7 +21,9 @@ Im a transgender girl who love programming and everything related to software. I
 			</td>
 		 </tr> 
 		 <tr>
-			<img src="https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true"/>
+			 <td>
+				 <img src="https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true"/>
+			 </td>	
 		 </tr>
 	</tbody>
 </table> 
