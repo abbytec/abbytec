@@ -19,11 +19,11 @@ Im a transgender girl who love programming and everything related to software. I
 		 WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
 	 </td>
  </tr> 
-	<tr>
+ <tr>
 		
 [![GitHub Streak](https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
-	</tr>
+ </tr>
 </table> 
 
 ## Badges
