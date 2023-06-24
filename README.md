@@ -18,13 +18,13 @@ Im a transgender girl who love programming and everything related to software. I
 		 Instagram: <a href="https://www.instagram.com/abbytec_hd/">Abbytec_hd</a> <br/>
 		 WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
 	 </td>
- </tr>
-	
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abbytec)  
-
-</table>
-
-
+ </tr> 
+	<tr>
+		
+[![GitHub Streak](https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
+	</tr>
+</table> 
 
 ## Badges
 
