@@ -19,10 +19,8 @@ Im a transgender girl who love programming and everything related to software. I
 		 WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
 	 </td>
  </tr>
-<tr>
-	![GitHub streak stats](https://streak-stats.demolab.com/?user=abbytec)  
-</tr>
 </table>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abbytec)  
 
 ## Badges
 
