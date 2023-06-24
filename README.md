@@ -20,14 +20,11 @@ Im a transgender girl who love programming and everything related to software. I
 	 </td>
  </tr> 
  <tr>
-	<td>
-		<img src="https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true"/>
-	</td>	
+	<img src="https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true"/>
  </tr>
 </table> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B23FF7&width=435&lines=Welcome+to+my+Profile+%3C3)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B23FF7&width=435&lines=Welcome+to+my+Profile+%3C3" alt="Typing SVG" />
 
 ## Badges
 
