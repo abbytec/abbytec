@@ -13,16 +13,10 @@ Im a transgender girl who love programming and everything related to software. I
 ```
 
 ## Activity
-
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
 <table align="center">
 	<tbody>
  		<tr>
-			<td>
+			<td border="0">
 				<a href="https://discord.com/users/220683580467052544" rel="nofollow"><img src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/220683580467052544?bg=610061&amp;idleMessage=Con%20ganas%20de%20aprender%20algo%20nuevo%20:3" style="max-width: 100%;"></a>
 			</td>
 			<td>
