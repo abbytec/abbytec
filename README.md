@@ -1,14 +1,17 @@
 # Hi everyone!
 ## My name is Abby.💕
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B23FF7&width=435&lines=Welcome+to+my+Profile+%3C3" alt="Typing SVG" />
+
 Im a transgender girl who love programming and everything related to software. I have studied (but not finished) informatic engineering.
 <br/>⭐My goal here is to finish with my sumiAI project. It is a private AI made with biological basis of the brain function.⭐
 <br/>
+
 ```diff
 !more about me
 #  🌸 25/07/98 🌸
 @@ 🌸 I love food, watching anime and playing osu! (-Abbytec-)🌸 @@
 ```
+
 ## Social media
 <table align="center">
 	<tbody>
@@ -22,7 +25,7 @@ Im a transgender girl who love programming and everything related to software. I
 			</td>
 		 </tr> 
 		 <tr>
-			 <td colspan="2">
+			 <td colspan="2" align="center">
 				 <img src="https://streak-stats.demolab.com?user=abbytec&theme=radical&hide_border=true"/>
 			 </td>	
 		 </tr>
