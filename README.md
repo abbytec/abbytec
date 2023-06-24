@@ -13,6 +13,7 @@ Im a transgender girl who love programming and everything related to software. I
 ```
 
 ## Activity
+
 <style>
   table td {
     border: none !important;
