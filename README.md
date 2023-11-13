@@ -1,5 +1,5 @@
 # Hi everyone!
-## My name is Abby.💕
+## My name is Abigaíl (but people call me Abby).💕
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B23FF7&width=435&lines=Welcome+to+my+Profile+%3C3" alt="Typing SVG" />
 
 Im a transgender girl who love programming and everything related to software. I have studied (but not finished) informatic engineering.
