@@ -9,7 +9,7 @@ Im a transgender girl who love programming and everything related to software. I
 ```diff
 !more about me
 #  🌸 25/07/98 🌸
-@@ 🌸 I love food, watching anime and playing osu! (-Abbytec-)🌸 @@
+@@ 🌸 I love to eat sushi, watch anime and play osu! (nickname: -Abbytec-)🌸 @@
 ```
 
 ## Activity
