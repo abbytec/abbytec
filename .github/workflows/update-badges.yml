@@ -1,0 +1,13 @@
+name: Update badges
+
+on: workflow_dispatch
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: abbytec/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: abby-palmero
