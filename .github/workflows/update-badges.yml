@@ -5,10 +5,12 @@ jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Badges - Readme
         uses: abbytec/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           REPOSITORY: abbytec/abbytec
           CREDLY_USER: abby-palmero
