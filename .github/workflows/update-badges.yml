@@ -10,4 +10,5 @@ jobs:
         uses: abbytec/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          INPUT_REPOSITORY: abbytec/abbytec
           CREDLY_USER: abby-palmero
