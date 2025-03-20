@@ -46,6 +46,5 @@ I have studied (but not finished) informatic engineering.
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/0de04057-14e0-4e87-8566-fde296d6612e "Networking Devices and Initial Configuration")
 [![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/ca20a950-7e56-4450-945c-d792dbad6816 "Networking Basics")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/6134a87c-e93e-4f88-a7e5-de7a77335726 "Introduction to Cybersecurity")
-[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/26b784bc-c4ce-4e32-9c14-a8beaa404922 "Scrum Foundation Professional Certification - SFPC™")
-[![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/42dc7034-1fa3-41d8-b4cf-cc5feb0f5883 "Lifelong Learning")
+[![Scrum Foundation Professional Certification - SFPC™ !](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](http://www.credly.com/badges/26b784bc-c4ce-4e32-9c14-a8beaa404922 "Scrum Foundation Professional Certification - SFPC™ !")
 <!--END_SECTION:badges-->
