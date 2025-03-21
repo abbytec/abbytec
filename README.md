@@ -29,7 +29,6 @@ I have studied (but not finished) informatic engineering.
    </td>
    <td>
      Discord: <a href="https://discordapp.com/users/220683580467052544">abbytec</a> <br/>
-     WhatsApp:  <a href="https://wa.me/+5493541209175">+5493541209175</a>
    </td>
    </tr>
    <tr>
